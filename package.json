@@ -1,0 +1,26 @@
+{
+  "name": "video_parser",
+  "version": "1.0.0",
+  "description": "YouTube Video ReUploader",
+  "main": "video.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reupload",
+    "upload",
+    "download",
+    "youtube"
+  ],
+  "author": "iBrm1269",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.2",
+    "googleapis": "^2.1.7",
+    "nconf": "^0.8.4",
+    "refresh-token": "^0.1.0",
+    "youtube-api": "^1.4.0",
+    "youtube-dl": "^1.10.5"
+  }
+}
